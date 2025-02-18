@@ -1,0 +1,3 @@
+/home/egor/osisp/build/CMakeFiles/dirwalk.dir
+/home/egor/osisp/build/CMakeFiles/edit_cache.dir
+/home/egor/osisp/build/CMakeFiles/rebuild_cache.dir

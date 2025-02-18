@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/dirwalk.dir/src/dirwalk.c.o -o dirwalk
