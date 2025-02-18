@@ -86,7 +86,7 @@ int main(int argc, char *argv[]) {
 
     // Запуск обхода каталога
     dirwalk(dir, options, sort);
-    printf("files found: %d\n",n);
+    printf("objects found: %d\n",n);
 
     return 0;
 }
